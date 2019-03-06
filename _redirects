@@ -1,1 +1,2 @@
-https://www.demarrage.io/* https://demarrage.io/:splat 301!
+# Redirect default Netlify subdomain to primary domain
+https://demarrage.netlify.com/* https://demarrage.io/:splat 301!
