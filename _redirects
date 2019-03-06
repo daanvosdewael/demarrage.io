@@ -1,2 +1,4 @@
+/* https://daan.vosdewael.com
+
 # Redirect default Netlify subdomain to primary domain
 https://demarrage.netlify.com/* https://demarrage.io/:splat 301!
